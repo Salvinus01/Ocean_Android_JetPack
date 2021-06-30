@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ocean_Android_JetPack.iml" filepath="$PROJECT_DIR$/.idea/modules/Ocean_Android_JetPack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ocean_Android_JetPack.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ocean_Android_JetPack.app.iml" />
+    </modules>
+  </component>
+</project>
